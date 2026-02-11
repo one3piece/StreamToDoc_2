@@ -1,0 +1,5 @@
+{
+  "name": "NoteFlow AI",
+  "description": "A client-side video summarization tool that turns transcripts into structured notes, mind maps, and timelines using your own Gemini API Key.",
+  "requestFramePermissions": []
+}
